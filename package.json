@@ -1,0 +1,9 @@
+{
+  "name": "await-promise-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.ts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
